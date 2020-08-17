@@ -31,3 +31,22 @@ Por medio de la lectura de códigos digitales de software de Diseño de Apoyo C
 - [IDE ARDUNIO](https://www.arduino.cc/en/main/software)
 - [IDE DE PROCESAMIENTO](https://processing.org/download/)
 - [VERSIÓN INKSCPAE 0.48.5](https://inkscape.org/release/inkscape-0.48/?latest=1)
+
+------------
+
+### **Armado de maquina**
+El armado se encuentra en la presentación enviada por classroom al Profesor Arturo Negrete Medellín, de igual manera se encuentra en un archivo adjuntado a este mismo repositor o de igual manera en [Exposición de proyecto](https://drive.google.com/file/d/1ItUyIfZDlvqNN5MA2FtoA6MNPPQivgV8/view?usp=sharing)
+
+### **Código de Arduino**
+El código se encuentra de igual manera en un archivo adjuntado en este repositor o en [Código Arduino](https://drive.google.com/file/d/146uGw6wSoPIxd1NurPImDQu-W8Zope0d/view?usp=sharing)
+
+### **¿A quien va dirigido?**
+Va dirigido para aquellos que necesitan realizar algún dibujo para alguna presentación y en caso de modificaciones que en vez de que lleve un lapicero puede llevar un mini dril para desarrollar tallados y circuitos o a su vez utilizar un laser para un grafilado o si se le llega a poner un eje Z se puede utilizar como impresora 3D
+
+![](https://i.pinimg.com/474x/33/fb/3f/33fb3f79097e8981675c3c15848a39c4.jpg)
+![](https://i.ytimg.com/vi/sV4H8b3QffI/maxresdefault.jpg)
+![](https://www.grumeber.com/wp-content/uploads/2017/06/impresion-3D-y-mecanizado-CNC-720x675-720x675.jpg)
+
+
+
+![](https://josedaniel2017.files.wordpress.com/2017/03/mi9nionnn.gif?w=364)
