@@ -47,6 +47,7 @@ Va dirigido para aquellos que necesitan realizar algún dibujo para alguna prese
 ![](https://i.ytimg.com/vi/sV4H8b3QffI/maxresdefault.jpg)
 ![](https://www.grumeber.com/wp-content/uploads/2017/06/impresion-3D-y-mecanizado-CNC-720x675-720x675.jpg)
 
-
+## ** Creditos **
+A [Mr Innovative](https://www.youtube.com/channel/UCsOFElmDD3e8l-RGCabCZ9g) por darme la idea de realizar este proyecto mediante uno de sus videos tiene un grna contenido en su canal y este es el [video](https://www.youtube.com/watch?v=Gm6bH3p6cNQ&list=PLxnbttCfosG-A2YgYmtzCLAhpN4TjThBH&index=9) de donde obtuve la idea 
 
 ![](https://josedaniel2017.files.wordpress.com/2017/03/mi9nionnn.gif?w=364)
